@@ -1,6 +1,6 @@
 Mkt3L10n.AccountAnalyzerChart = {
   Trend: "TendênciawSTest",
-  Opportunity: "OportunidadesFFFF",
+  Opportunity: "OportunidadesFF",
   Interactions: "Interações",
   Week_Of_Date_Interaction: "<b>Semana de {0} - ({1} interação{2})</b> ",
   Date_Interaction: "<b>{0} - ({1} interação{2})</b> ",
